@@ -1,0 +1,10 @@
+sklearn
+xgboost
+numpy
+pandas
+
+#from sklearn.preprocessing import OneHotEncoder
+#from sklearn.preprocessing import LabelEncoder
+#from sklearn.model_selection import train_test_split
+#from xgboost import XGBClassifier
+#from sklearn.metrics import accuracy_score
